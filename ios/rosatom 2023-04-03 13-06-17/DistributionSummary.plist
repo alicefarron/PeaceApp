@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SilverNew.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>3</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>F1330D17D599C7609C4E786BA3D89EFFBAE9F7EA</string>
+				<key>dateExpires</key>
+				<string>05.03.2024</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>K7HHH4XT2L.com.greenatom.record</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.associated-domains</key>
+				<array>
+					<string>applinks:dml.rosatom.ru</string>
+					<string>applinks:ml.rosatom.ru</string>
+					<string>applinks:tml.rosatom.ru</string>
+				</array>
+				<key>com.apple.developer.team-identifier</key>
+				<string>K7HHH4XT2L</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>SilverNew.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>39e35fc3-1fc2-43af-a4fa-111fbd39e18e</string>
+				<key>dateExpires</key>
+				<string>05.03.2024</string>
+				<key>name</key>
+				<string>iOS Team Store Provisioning Profile: com.greenatom.record</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>K7HHH4XT2L</string>
+				<key>name</key>
+				<string>GRINATOM, AO</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>8.50.03</string>
+		</dict>
+	</array>
+</dict>
+</plist>

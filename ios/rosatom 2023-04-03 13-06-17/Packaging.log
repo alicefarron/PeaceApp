@@ -1,0 +1,1022 @@
+2023-04-03 08:04:01 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7f8c9347b310; archive(resolved)="<IDEArchive: 0x60001cab4360>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodiOSAppStoreDistribution: 0x600032db0b40>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x6000030a6500; teamID='K7HHH4XT2L', teamName='GRINATOM, AO', teamType='Company', username='asshaymieva@greenatom.ru', isFreeProvisioningTeam='0'>">
+	Chain (16, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7f8c9347b310; archive = "<IDEArchive: 0x60001cab4360>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600032db0b40>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000030a6500; teamID='K7HHH4XT2L', teamName='GRINATOM, AO', teamType='Company', username='asshaymieva@greenatom.ru', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x7f8ce13e62b0; archive = "<IDEArchive: 0x60001cab4360>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600032db0b40>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000030a6500; teamID='K7HHH4XT2L', teamName='GRINATOM, AO', teamType='Company', username='asshaymieva@greenatom.ru', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f8ca27fdf80; archive = "<IDEArchive: 0x60001cab4360>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600032db0b40>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000030a6500; teamID='K7HHH4XT2L', teamName='GRINATOM, AO', teamType='Company', username='asshaymieva@greenatom.ru', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f8c910eaec0; archive = "<IDEArchive: 0x60001cab4360>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600032db0b40>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000030a6500; teamID='K7HHH4XT2L', teamName='GRINATOM, AO', teamType='Company', username='asshaymieva@greenatom.ru', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f8c91089690; archive = "<IDEArchive: 0x60001cab4360>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600032db0b40>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000030a6500; teamID='K7HHH4XT2L', teamName='GRINATOM, AO', teamType='Company', username='asshaymieva@greenatom.ru', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f8ca7d2aae0; archive = "<IDEArchive: 0x60001cab4360>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600032db0b40>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000030a6500; teamID='K7HHH4XT2L', teamName='GRINATOM, AO', teamType='Company', username='asshaymieva@greenatom.ru', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f8ca2dd40d0; archive = "<IDEArchive: 0x60001cab4360>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600032db0b40>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000030a6500; teamID='K7HHH4XT2L', teamName='GRINATOM, AO', teamType='Company', username='asshaymieva@greenatom.ru', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f8ca13eaac0; archive = "<IDEArchive: 0x60001cab4360>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600032db0b40>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000030a6500; teamID='K7HHH4XT2L', teamName='GRINATOM, AO', teamType='Company', username='asshaymieva@greenatom.ru', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f8ca137b1f0; archive = "<IDEArchive: 0x60001cab4360>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600032db0b40>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000030a6500; teamID='K7HHH4XT2L', teamName='GRINATOM, AO', teamType='Company', username='asshaymieva@greenatom.ru', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f8ca7d393a0; archive = "<IDEArchive: 0x60001cab4360>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600032db0b40>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000030a6500; teamID='K7HHH4XT2L', teamName='GRINATOM, AO', teamType='Company', username='asshaymieva@greenatom.ru', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f8c910da960; archive = "<IDEArchive: 0x60001cab4360>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600032db0b40>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000030a6500; teamID='K7HHH4XT2L', teamName='GRINATOM, AO', teamType='Company', username='asshaymieva@greenatom.ru', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f8c9104dd70; archive = "<IDEArchive: 0x60001cab4360>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600032db0b40>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000030a6500; teamID='K7HHH4XT2L', teamName='GRINATOM, AO', teamType='Company', username='asshaymieva@greenatom.ru', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f8c9786de30; archive = "<IDEArchive: 0x60001cab4360>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600032db0b40>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000030a6500; teamID='K7HHH4XT2L', teamName='GRINATOM, AO', teamType='Company', username='asshaymieva@greenatom.ru', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f8c48354380; archive = "<IDEArchive: 0x60001cab4360>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600032db0b40>", team="(null)">
+	<IDEDistributionContext: 0x7f8c495fa410; archive = "<IDEArchive: 0x60001cab4360>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600032db0b40>", team="(null)">
+	<IDEDistributionContext: 0x7f8ca230ca50; archive = "<IDEArchive: 0x60001cab4360>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x7f8c9347b310>
+2023-04-03 08:04:01 +0000  Processing step: IDEDistributionCreateDestRootStep
+2023-04-03 08:04:01 +0000  Processing step: IDEDistributionCopyItemStep
+2023-04-03 08:04:01 +0000  Running /usr/bin/ditto '-V' '/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app' '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app'
+2023-04-03 08:04:01 +0000  >>> Copying /Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app 
+2023-04-03 08:04:01 +0000  copying file ./_CodeSignature/CodeResources ... 
+2023-04-03 08:04:01 +0000  43435 bytes for ./_CodeSignature/CodeResources
+2023-04-03 08:04:01 +0000  copying file ./icomoon.ttf ... 
+2023-04-03 08:04:01 +0000  54104 bytes for ./icomoon.ttf
+2023-04-03 08:04:01 +0000  copying file ./Fontisto.ttf ... 
+2023-04-03 08:04:01 +0000  313528 bytes for ./Fontisto.ttf
+2023-04-03 08:04:01 +0000  copying file ./Octicons.ttf ... 
+2023-04-03 08:04:01 +0000  28364 bytes for ./Octicons.ttf
+2023-04-03 08:04:01 +0000  copying file ./Feather.ttf ... 
+2023-04-03 08:04:01 +0000  58272 bytes for ./Feather.ttf
+2023-04-03 08:04:01 +0000  copying file ./fontello.ttf ... 
+2023-04-03 08:04:01 +0000  75212 bytes for ./fontello.ttf
+2023-04-03 08:04:01 +0000  copying file ./Entypo.ttf ... 
+2023-04-03 08:04:01 +0000  65584 bytes for ./Entypo.ttf
+2023-04-03 08:04:01 +0000  copying file ./Source-Sans-Pro-Light.ttf ... 
+2023-04-03 08:04:01 +0000  58460 bytes for ./Source-Sans-Pro-Light.ttf
+2023-04-03 08:04:01 +0000  copying file ./QBImagePicker.bundle/de.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:01 +0000  1131 bytes for ./QBImagePicker.bundle/de.lproj/QBImagePicker.strings
+2023-04-03 08:04:01 +0000  copying file ./QBImagePicker.bundle/_CodeSignature/CodeResources ... 
+2023-04-03 08:04:01 +0000  14598 bytes for ./QBImagePicker.bundle/_CodeSignature/CodeResources
+2023-04-03 08:04:01 +0000  copying file ./QBImagePicker.bundle/_CodeSignature/CodeDirectory ... 
+2023-04-03 08:04:01 +0000  171 bytes for ./QBImagePicker.bundle/_CodeSignature/CodeDirectory
+copying file ./QBImagePicker.bundle/_CodeSignature/CodeRequirements-1 ... 
+2023-04-03 08:04:01 +0000  219 bytes for ./QBImagePicker.bundle/_CodeSignature/CodeRequirements-1
+2023-04-03 08:04:01 +0000  copying file ./QBImagePicker.bundle/_CodeSignature/CodeSignature ... 
+2023-04-03 08:04:01 +0000  4877 bytes for ./QBImagePicker.bundle/_CodeSignature/CodeSignature
+2023-04-03 08:04:01 +0000  copying file ./QBImagePicker.bundle/_CodeSignature/CodeRequirements ... 
+2023-04-03 08:04:01 +0000  204 bytes for ./QBImagePicker.bundle/_CodeSignature/CodeRequirements
+2023-04-03 08:04:01 +0000  copying file ./QBImagePicker.bundle/zh-Hans.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:01 +0000  1119 bytes for ./QBImagePicker.bundle/zh-Hans.lproj/QBImagePicker.strings
+2023-04-03 08:04:01 +0000  copying file ./QBImagePicker.bundle/ja.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:01 +0000  1214 bytes for ./QBImagePicker.bundle/ja.lproj/QBImagePicker.strings
+2023-04-03 08:04:01 +0000  copying file ./QBImagePicker.bundle/en.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:01 +0000  1064 bytes for ./QBImagePicker.bundle/en.lproj/QBImagePicker.strings
+2023-04-03 08:04:01 +0000  copying file ./QBImagePicker.bundle/uk.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:01 +0000  1398 bytes for ./QBImagePicker.bundle/uk.lproj/QBImagePicker.strings
+2023-04-03 08:04:01 +0000  copying file ./QBImagePicker.bundle/QBImagePicker.storyboardc/QiH-NZ-ZGN-view-sD2-zK-ryo.nib/runtime.nib ... 
+2023-04-03 08:04:01 +0000  10216 bytes for ./QBImagePicker.bundle/QBImagePicker.storyboardc/QiH-NZ-ZGN-view-sD2-zK-ryo.nib/runtime.nib
+2023-04-03 08:04:01 +0000  copying file ./QBImagePicker.bundle/QBImagePicker.storyboardc/QiH-NZ-ZGN-view-sD2-zK-ryo.nib/objects-12.3+.nib ... 
+2023-04-03 08:04:01 +0000  10443 bytes for ./QBImagePicker.bundle/QBImagePicker.storyboardc/QiH-NZ-ZGN-view-sD2-zK-ryo.nib/objects-12.3+.nib
+2023-04-03 08:04:01 +0000  copying file ./QBImagePicker.bundle/QBImagePicker.storyboardc/QBAlbumsViewController.nib/runtime.nib ... 
+2023-04-03 08:04:01 +0000  1800 bytes for ./QBImagePicker.bundle/QBImagePicker.storyboardc/QBAlbumsViewController.nib/runtime.nib
+2023-04-03 08:04:01 +0000  copying file ./QBImagePicker.bundle/QBImagePicker.storyboardc/QBAlbumsViewController.nib/objects-12.3+.nib ... 
+2023-04-03 08:04:01 +0000  1800 bytes for ./QBImagePicker.bundle/QBImagePicker.storyboardc/QBAlbumsViewController.nib/objects-12.3+.nib
+2023-04-03 08:04:01 +0000  copying file ./QBImagePicker.bundle/QBImagePicker.storyboardc/QBAssetsViewController.nib/runtime.nib ... 
+2023-04-03 08:04:01 +0000  1393 bytes for ./QBImagePicker.bundle/QBImagePicker.storyboardc/QBAssetsViewController.nib/runtime.nib
+2023-04-03 08:04:01 +0000  copying file ./QBImagePicker.bundle/QBImagePicker.storyboardc/QBAssetsViewController.nib/objects-12.3+.nib ... 
+2023-04-03 08:04:01 +0000  1393 bytes for ./QBImagePicker.bundle/QBImagePicker.storyboardc/QBAssetsViewController.nib/objects-12.3+.nib
+2023-04-03 08:04:01 +0000  copying file ./QBImagePicker.bundle/QBImagePicker.storyboardc/QL5-wR-LYt-view-66K-TS-Yoc.nib/runtime.nib ... 
+2023-04-03 08:04:01 +0000  7161 bytes for ./QBImagePicker.bundle/QBImagePicker.storyboardc/QL5-wR-LYt-view-66K-TS-Yoc.nib/runtime.nib
+2023-04-03 08:04:01 +0000  copying file ./QBImagePicker.bundle/QBImagePicker.storyboardc/QL5-wR-LYt-view-66K-TS-Yoc.nib/objects-12.3+.nib ... 
+2023-04-03 08:04:01 +0000  7161 bytes for ./QBImagePicker.bundle/QBImagePicker.storyboardc/QL5-wR-LYt-view-66K-TS-Yoc.nib/objects-12.3+.nib
+2023-04-03 08:04:01 +0000  copying file ./QBImagePicker.bundle/QBImagePicker.storyboardc/QBAlbumsNavigationController.nib/runtime.nib ... 
+2023-04-03 08:04:01 +0000  2617 bytes for ./QBImagePicker.bundle/QBImagePicker.storyboardc/QBAlbumsNavigationController.nib/runtime.nib
+2023-04-03 08:04:01 +0000  copying file ./QBImagePicker.bundle/QBImagePicker.storyboardc/QBAlbumsNavigationController.nib/objects-12.3+.nib ... 
+2023-04-03 08:04:01 +0000  2617 bytes for ./QBImagePicker.bundle/QBImagePicker.storyboardc/QBAlbumsNavigationController.nib/objects-12.3+.nib
+2023-04-03 08:04:01 +0000  copying file ./QBImagePicker.bundle/QBImagePicker.storyboardc/Info.plist ... 
+2023-04-03 08:04:01 +0000  289 bytes for ./QBImagePicker.bundle/QBImagePicker.storyboardc/Info.plist
+2023-04-03 08:04:01 +0000  copying file ./QBImagePicker.bundle/nb.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:01 +0000  1076 bytes for ./QBImagePicker.bundle/nb.lproj/QBImagePicker.strings
+2023-04-03 08:04:01 +0000  copying file ./QBImagePicker.bundle/es.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:01 +0000  1113 bytes for ./QBImagePicker.bundle/es.lproj/QBImagePicker.strings
+2023-04-03 08:04:01 +0000  copying file ./QBImagePicker.bundle/da.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:01 +0000  1015 bytes for ./QBImagePicker.bundle/da.lproj/QBImagePicker.strings
+2023-04-03 08:04:01 +0000  copying file ./QBImagePicker.bundle/it.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:01 +0000  1088 bytes for ./QBImagePicker.bundle/it.lproj/QBImagePicker.strings
+2023-04-03 08:04:01 +0000  copying file ./QBImagePicker.bundle/sv.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:01 +0000  1082 bytes for ./QBImagePicker.bundle/sv.lproj/QBImagePicker.strings
+2023-04-03 08:04:01 +0000  copying file ./QBImagePicker.bundle/ko.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:01 +0000  1139 bytes for ./QBImagePicker.bundle/ko.lproj/QBImagePicker.strings
+2023-04-03 08:04:01 +0000  copying file ./QBImagePicker.bundle/zh-Hant.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:01 +0000  1119 bytes for ./QBImagePicker.bundle/zh-Hant.lproj/QBImagePicker.strings
+2023-04-03 08:04:01 +0000  copying file ./QBImagePicker.bundle/tr.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:01 +0000  1104 bytes for ./QBImagePicker.bundle/tr.lproj/QBImagePicker.strings
+2023-04-03 08:04:01 +0000  copying file ./QBImagePicker.bundle/pl.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:01 +0000  1119 bytes for ./QBImagePicker.bundle/pl.lproj/QBImagePicker.strings
+2023-04-03 08:04:01 +0000  copying file ./QBImagePicker.bundle/vi.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:01 +0000  1143 bytes for ./QBImagePicker.bundle/vi.lproj/QBImagePicker.strings
+2023-04-03 08:04:01 +0000  copying file ./QBImagePicker.bundle/ru.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:01 +0000  1433 bytes for ./QBImagePicker.bundle/ru.lproj/QBImagePicker.strings
+2023-04-03 08:04:01 +0000  copying file ./QBImagePicker.bundle/fr.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:01 +0000  1153 bytes for ./QBImagePicker.bundle/fr.lproj/QBImagePicker.strings
+2023-04-03 08:04:01 +0000  copying file ./QBImagePicker.bundle/fi.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:01 +0000  1002 bytes for ./QBImagePicker.bundle/fi.lproj/QBImagePicker.strings
+2023-04-03 08:04:01 +0000  copying file ./QBImagePicker.bundle/pt.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:01 +0000  1112 bytes for ./QBImagePicker.bundle/pt.lproj/QBImagePicker.strings
+2023-04-03 08:04:01 +0000  copying file ./QBImagePicker.bundle/ro.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:01 +0000  1127 bytes for ./QBImagePicker.bundle/ro.lproj/QBImagePicker.strings
+2023-04-03 08:04:01 +0000  copying file ./QBImagePicker.bundle/Info.plist ... 
+2023-04-03 08:04:01 +0000  772 bytes for ./QBImagePicker.bundle/Info.plist
+2023-04-03 08:04:01 +0000  copying file ./FontAwesome5_Brands.ttf ... 
+2023-04-03 08:04:01 +0000  132728 bytes for ./FontAwesome5_Brands.ttf
+2023-04-03 08:04:01 +0000  copying file ./MaterialCommunityIcons.ttf ... 
+2023-04-03 08:04:01 +0000  899432 bytes for ./MaterialCommunityIcons.ttf
+2023-04-03 08:04:01 +0000  copying file ./AppIcon60x60@2x.png ... 
+2023-04-03 08:04:01 +0000  2414 bytes for ./AppIcon60x60@2x.png
+2023-04-03 08:04:01 +0000  copying file ./AntDesign.ttf ... 
+2023-04-03 08:04:01 +0000  70344 bytes for ./AntDesign.ttf
+2023-04-03 08:04:01 +0000  copying file ./Foundation.ttf ... 
+2023-04-03 08:04:01 +0000  56976 bytes for ./Foundation.ttf
+copying file ./Raleway-Regular.ttf ... 
+2023-04-03 08:04:01 +0000  176188 bytes for ./Raleway-Regular.ttf
+2023-04-03 08:04:01 +0000  copying file ./Ionicons.ttf ... 
+2023-04-03 08:04:01 +0000  247192 bytes for ./Ionicons.ttf
+2023-04-03 08:04:01 +0000  copying file ./FontAwesome5_Solid.ttf ... 
+2023-04-03 08:04:01 +0000  202616 bytes for ./FontAwesome5_Solid.ttf
+2023-04-03 08:04:01 +0000  copying file ./FontAwesome5_Regular.ttf ... 
+2023-04-03 08:04:01 +0000  34092 bytes for ./FontAwesome5_Regular.ttf
+2023-04-03 08:04:01 +0000  copying file ./AccessibilityResources.bundle/_CodeSignature/CodeResources ... 
+2023-04-03 08:04:01 +0000  2155 bytes for ./AccessibilityResources.bundle/_CodeSignature/CodeResources
+2023-04-03 08:04:01 +0000  copying file ./AccessibilityResources.bundle/_CodeSignature/CodeDirectory ... 
+2023-04-03 08:04:01 +0000  180 bytes for ./AccessibilityResources.bundle/_CodeSignature/CodeDirectory
+2023-04-03 08:04:01 +0000  copying file ./AccessibilityResources.bundle/_CodeSignature/CodeRequirements-1 ... 
+2023-04-03 08:04:01 +0000  228 bytes for ./AccessibilityResources.bundle/_CodeSignature/CodeRequirements-1
+2023-04-03 08:04:01 +0000  copying file ./AccessibilityResources.bundle/_CodeSignature/CodeSignature ... 
+2023-04-03 08:04:01 +0000  4877 bytes for ./AccessibilityResources.bundle/_CodeSignature/CodeSignature
+2023-04-03 08:04:01 +0000  copying file ./AccessibilityResources.bundle/_CodeSignature/CodeRequirements ... 
+2023-04-03 08:04:01 +0000  212 bytes for ./AccessibilityResources.bundle/_CodeSignature/CodeRequirements
+2023-04-03 08:04:01 +0000  copying file ./AccessibilityResources.bundle/en.lproj/Localizable.strings ... 
+2023-04-03 08:04:01 +0000  518 bytes for ./AccessibilityResources.bundle/en.lproj/Localizable.strings
+2023-04-03 08:04:01 +0000  copying file ./AccessibilityResources.bundle/Info.plist ... 
+2023-04-03 08:04:01 +0000  792 bytes for ./AccessibilityResources.bundle/Info.plist
+2023-04-03 08:04:01 +0000  copying file ./LaunchScreen.nib ... 
+2023-04-03 08:04:01 +0000  879 bytes for ./LaunchScreen.nib
+2023-04-03 08:04:01 +0000  copying file ./Raleway-Light.ttf ... 
+2023-04-03 08:04:01 +0000  182376 bytes for ./Raleway-Light.ttf
+copying file ./FontAwesome.ttf ... 
+2023-04-03 08:04:01 +0000  165548 bytes for ./FontAwesome.ttf
+copying file ./Zocial.ttf ... 
+2023-04-03 08:04:01 +0000  25552 bytes for ./Zocial.ttf
+2023-04-03 08:04:01 +0000  copying file ./Circe-Bold.ttf ... 
+2023-04-03 08:04:01 +0000  428508 bytes for ./Circe-Bold.ttf
+2023-04-03 08:04:01 +0000  copying file ./Source-Sans-Pro.ttf ... 
+2023-04-03 08:04:01 +0000  64844 bytes for ./Source-Sans-Pro.ttf
+2023-04-03 08:04:01 +0000  copying file ./Assets.car ... 
+2023-04-03 08:04:01 +0000  90408 bytes for ./Assets.car
+2023-04-03 08:04:01 +0000  copying file ./EvilIcons.ttf ... 
+2023-04-03 08:04:01 +0000  13456 bytes for ./EvilIcons.ttf
+2023-04-03 08:04:01 +0000  copying file ./logo.png ... 
+2023-04-03 08:04:01 +0000  50314 bytes for ./logo.png
+2023-04-03 08:04:01 +0000  copying file ./AppIcon76x76@2x~ipad.png ... 
+2023-04-03 08:04:01 +0000  2974 bytes for ./AppIcon76x76@2x~ipad.png
+2023-04-03 08:04:01 +0000  copying file ./launch_screen.png ... 
+2023-04-03 08:04:01 +0000  53258 bytes for ./launch_screen.png
+copying file ./SilverNew ... 
+2023-04-03 08:04:01 +0000  10450496 bytes for ./SilverNew
+2023-04-03 08:04:01 +0000  copying file ./LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2023-04-03 08:04:01 +0000  1631 bytes for ./LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2023-04-03 08:04:01 +0000  copying file ./LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2023-04-03 08:04:01 +0000  896 bytes for ./LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2023-04-03 08:04:01 +0000  copying file ./LaunchScreen.storyboardc/Info.plist ... 
+2023-04-03 08:04:01 +0000  258 bytes for ./LaunchScreen.storyboardc/Info.plist
+2023-04-03 08:04:01 +0000  copying file ./TOCropViewControllerBundle.bundle/de.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:01 +0000  189 bytes for ./TOCropViewControllerBundle.bundle/de.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:01 +0000  copying file ./TOCropViewControllerBundle.bundle/_CodeSignature/CodeResources ... 
+2023-04-03 08:04:01 +0000  15092 bytes for ./TOCropViewControllerBundle.bundle/_CodeSignature/CodeResources
+2023-04-03 08:04:01 +0000  copying file ./TOCropViewControllerBundle.bundle/_CodeSignature/CodeDirectory ... 
+2023-04-03 08:04:01 +0000  184 bytes for ./TOCropViewControllerBundle.bundle/_CodeSignature/CodeDirectory
+2023-04-03 08:04:01 +0000  copying file ./TOCropViewControllerBundle.bundle/_CodeSignature/CodeRequirements-1 ... 
+2023-04-03 08:04:01 +0000  232 bytes for ./TOCropViewControllerBundle.bundle/_CodeSignature/CodeRequirements-1
+2023-04-03 08:04:01 +0000  copying file ./TOCropViewControllerBundle.bundle/_CodeSignature/CodeSignature ... 
+2023-04-03 08:04:01 +0000  4877 bytes for ./TOCropViewControllerBundle.bundle/_CodeSignature/CodeSignature
+2023-04-03 08:04:01 +0000  copying file ./TOCropViewControllerBundle.bundle/_CodeSignature/CodeRequirements ... 
+2023-04-03 08:04:01 +0000  216 bytes for ./TOCropViewControllerBundle.bundle/_CodeSignature/CodeRequirements
+2023-04-03 08:04:01 +0000  copying file ./TOCropViewControllerBundle.bundle/ar.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:01 +0000  207 bytes for ./TOCropViewControllerBundle.bundle/ar.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:01 +0000  copying file ./TOCropViewControllerBundle.bundle/zh-Hans.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:01 +0000  172 bytes for ./TOCropViewControllerBundle.bundle/zh-Hans.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:01 +0000  copying file ./TOCropViewControllerBundle.bundle/ja.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:01 +0000  210 bytes for ./TOCropViewControllerBundle.bundle/ja.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:01 +0000  copying file ./TOCropViewControllerBundle.bundle/fa.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:01 +0000  210 bytes for ./TOCropViewControllerBundle.bundle/fa.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:01 +0000  copying file ./TOCropViewControllerBundle.bundle/en.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:01 +0000  168 bytes for ./TOCropViewControllerBundle.bundle/en.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:01 +0000  copying file ./TOCropViewControllerBundle.bundle/es.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:01 +0000  179 bytes for ./TOCropViewControllerBundle.bundle/es.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:01 +0000  copying file ./TOCropViewControllerBundle.bundle/it.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:01 +0000  181 bytes for ./TOCropViewControllerBundle.bundle/it.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:01 +0000  copying file ./TOCropViewControllerBundle.bundle/sk.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:01 +0000  176 bytes for ./TOCropViewControllerBundle.bundle/sk.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:01 +0000  copying file ./TOCropViewControllerBundle.bundle/ms.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:01 +0000  173 bytes for ./TOCropViewControllerBundle.bundle/ms.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:01 +0000  copying file ./TOCropViewControllerBundle.bundle/cs.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:01 +0000  173 bytes for ./TOCropViewControllerBundle.bundle/cs.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:01 +0000  copying file ./TOCropViewControllerBundle.bundle/ko.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:01 +0000  187 bytes for ./TOCropViewControllerBundle.bundle/ko.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:01 +0000  copying file ./TOCropViewControllerBundle.bundle/Base.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:01 +0000  168 bytes for ./TOCropViewControllerBundle.bundle/Base.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:01 +0000  copying file ./TOCropViewControllerBundle.bundle/zh-Hant.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:01 +0000  175 bytes for ./TOCropViewControllerBundle.bundle/zh-Hant.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:01 +0000  copying file ./TOCropViewControllerBundle.bundle/fa-IR.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:01 +0000  210 bytes for ./TOCropViewControllerBundle.bundle/fa-IR.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:01 +0000  copying file ./TOCropViewControllerBundle.bundle/hu.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:01 +0000  194 bytes for ./TOCropViewControllerBundle.bundle/hu.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:01 +0000  copying file ./TOCropViewControllerBundle.bundle/da-DK.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:01 +0000  174 bytes for ./TOCropViewControllerBundle.bundle/da-DK.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:01 +0000  copying file ./TOCropViewControllerBundle.bundle/tr.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:01 +0000  183 bytes for ./TOCropViewControllerBundle.bundle/tr.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:01 +0000  copying file ./TOCropViewControllerBundle.bundle/pl.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:01 +0000  171 bytes for ./TOCropViewControllerBundle.bundle/pl.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:01 +0000  copying file ./TOCropViewControllerBundle.bundle/pt-BR.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:01 +0000  181 bytes for ./TOCropViewControllerBundle.bundle/pt-BR.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:01 +0000  copying file ./TOCropViewControllerBundle.bundle/vi.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:01 +0000  178 bytes for ./TOCropViewControllerBundle.bundle/vi.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:01 +0000  copying file ./TOCropViewControllerBundle.bundle/ru.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:01 +0000  237 bytes for ./TOCropViewControllerBundle.bundle/ru.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:01 +0000  copying file ./TOCropViewControllerBundle.bundle/fr.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:01 +0000  193 bytes for ./TOCropViewControllerBundle.bundle/fr.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:01 +0000  copying file ./TOCropViewControllerBundle.bundle/fi.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:01 +0000  179 bytes for ./TOCropViewControllerBundle.bundle/fi.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:01 +0000  copying file ./TOCropViewControllerBundle.bundle/id.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:01 +0000  178 bytes for ./TOCropViewControllerBundle.bundle/id.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:01 +0000  copying file ./TOCropViewControllerBundle.bundle/nl.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:01 +0000  178 bytes for ./TOCropViewControllerBundle.bundle/nl.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:01 +0000  copying file ./TOCropViewControllerBundle.bundle/pt.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:01 +0000  181 bytes for ./TOCropViewControllerBundle.bundle/pt.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:01 +0000  copying file ./TOCropViewControllerBundle.bundle/ro.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:01 +0000  181 bytes for ./TOCropViewControllerBundle.bundle/ro.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:01 +0000  copying file ./TOCropViewControllerBundle.bundle/Info.plist ... 
+2023-04-03 08:04:01 +0000  799 bytes for ./TOCropViewControllerBundle.bundle/Info.plist
+2023-04-03 08:04:01 +0000  copying file ./TOCropViewControllerBundle.bundle/ca.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:01 +0000  177 bytes for ./TOCropViewControllerBundle.bundle/ca.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:01 +0000  copying file ./Frameworks/libswiftObjectiveC.dylib ... 
+2023-04-03 08:04:01 +0000  400128 bytes for ./Frameworks/libswiftObjectiveC.dylib
+2023-04-03 08:04:01 +0000  copying file ./Frameworks/libswiftCore.dylib ... 
+2023-04-03 08:04:01 +0000  23297584 bytes for ./Frameworks/libswiftCore.dylib
+copying file ./Frameworks/libswiftCoreGraphics.dylib ... 
+2023-04-03 08:04:01 +0000  857664 bytes for ./Frameworks/libswiftCoreGraphics.dylib
+2023-04-03 08:04:01 +0000  copying file ./Frameworks/libswiftDispatch.dylib ... 
+2023-04-03 08:04:01 +0000  1377376 bytes for ./Frameworks/libswiftDispatch.dylib
+copying file ./Frameworks/libswiftCoreFoundation.dylib ... 
+2023-04-03 08:04:01 +0000  335296 bytes for ./Frameworks/libswiftCoreFoundation.dylib
+2023-04-03 08:04:01 +0000  copying file ./Frameworks/libswiftDarwin.dylib ... 
+2023-04-03 08:04:01 +0000  499760 bytes for ./Frameworks/libswiftDarwin.dylib
+copying file ./Frameworks/libswiftFoundation.dylib ... 
+2023-04-03 08:04:01 +0000  11552352 bytes for ./Frameworks/libswiftFoundation.dylib
+2023-04-03 08:04:01 +0000  copying file ./SimpleLineIcons.ttf ... 
+2023-04-03 08:04:01 +0000  54056 bytes for ./SimpleLineIcons.ttf
+2023-04-03 08:04:01 +0000  copying file ./Circe-Regular.ttf ... 
+2023-04-03 08:04:01 +0000  430856 bytes for ./Circe-Regular.ttf
+copying file ./Source-Sans-Pro-Black.ttf ... 
+2023-04-03 08:04:01 +0000  60408 bytes for ./Source-Sans-Pro-Black.ttf
+2023-04-03 08:04:01 +0000  copying file ./embedded.mobileprovision ... 
+2023-04-03 08:04:01 +0000  13033 bytes for ./embedded.mobileprovision
+2023-04-03 08:04:01 +0000  copying file ./Raleway-Italic.ttf ... 
+2023-04-03 08:04:01 +0000  161320 bytes for ./Raleway-Italic.ttf
+2023-04-03 08:04:01 +0000  copying file ./rosatom.entitlements ... 
+2023-04-03 08:04:01 +0000  192 bytes for ./rosatom.entitlements
+2023-04-03 08:04:01 +0000  copying file ./Source-Sans-Pro-Bold.ttf ... 
+2023-04-03 08:04:01 +0000  61168 bytes for ./Source-Sans-Pro-Bold.ttf
+2023-04-03 08:04:01 +0000  copying file ./Raleway-Bold.ttf ... 
+2023-04-03 08:04:01 +0000  176280 bytes for ./Raleway-Bold.ttf
+copying file ./Info.plist ... 
+2023-04-03 08:04:01 +0000  3183 bytes for ./Info.plist
+copying file ./PkgInfo ... 
+2023-04-03 08:04:01 +0000  8 bytes for ./PkgInfo
+copying file ./MaterialIcons.ttf ... 
+2023-04-03 08:04:01 +0000  128180 bytes for ./MaterialIcons.ttf
+2023-04-03 08:04:01 +0000  /usr/bin/ditto exited with 0
+2023-04-03 08:04:01 +0000  Processing step: IDEDistributionEmbedProfileStep
+2023-04-03 08:04:01 +0000  Skipping profile for item: <IDEDistributionItem: 0x60001ca36b20; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x60004c40df10:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600028fd0960; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60006db9d080; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='(null)', teamID='K7HHH4XT2L', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x60004c40df10:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'>
+2023-04-03 08:04:01 +0000  Skipping profile for item: <IDEDistributionItem: 0x600094a3d5c0; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x600088342280:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600028fd34d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60006db9d080; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='(null)', teamID='K7HHH4XT2L', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x600088342280:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'>
+2023-04-03 08:04:01 +0000  Skipping profile for item: <IDEDistributionItem: 0x600094a3fc00; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x600088379e00:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600028fd2c60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60006db70000; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='(null)', teamID='K7HHH4XT2L', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x600088379e00:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'>
+2023-04-03 08:04:01 +0000  Skipping profile for item: <IDEDistributionItem: 0x60001ca232a0; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x60003079efb0:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600058ff2760; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60006db9d080; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='(null)', teamID='K7HHH4XT2L', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x60003079efb0:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'>
+2023-04-03 08:04:01 +0000  Skipping profile for item: <IDEDistributionItem: 0x60001ca372a0; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x60004c458cb0:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600028fd2a30; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60006db70000; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='(null)', teamID='K7HHH4XT2L', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x60004c458cb0:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'>
+2023-04-03 08:04:01 +0000  Skipping profile for item: <IDEDistributionItem: 0x60001ca7ee20; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x600094188e80:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600028fd0550; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60006db70000; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='(null)', teamID='K7HHH4XT2L', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x600094188e80:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'>
+2023-04-03 08:04:01 +0000  Skipping profile for item: <IDEDistributionItem: 0x6000085dd200; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x6000941bf880:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600028fd2580; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60006db70000; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='(null)', teamID='K7HHH4XT2L', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x6000941bf880:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'>
+2023-04-03 08:04:01 +0000  Processing step: IDEDistributionInfoPlistStep
+2023-04-03 08:04:01 +0000  No Info.plist file URL found for item at path "/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftCore.dylib".
+2023-04-03 08:04:01 +0000  No Info.plist file URL found for item at path "/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftCoreFoundation.dylib".
+2023-04-03 08:04:01 +0000  No Info.plist file URL found for item at path "/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftCoreGraphics.dylib".
+2023-04-03 08:04:01 +0000  No Info.plist file URL found for item at path "/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftDarwin.dylib".
+2023-04-03 08:04:01 +0000  No Info.plist file URL found for item at path "/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftDispatch.dylib".
+2023-04-03 08:04:01 +0000  No Info.plist file URL found for item at path "/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftFoundation.dylib".
+2023-04-03 08:04:01 +0000  No Info.plist file URL found for item at path "/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftObjectiveC.dylib".
+2023-04-03 08:04:01 +0000  Processing step: IDEDistributionItemRemovalStep
+2023-04-03 08:04:01 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2023-04-03 08:04:01 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2023-04-03 08:04:01 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2023-04-03 08:04:01 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2023-04-03 08:04:01 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2023-04-03 08:04:01 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2023-04-03 08:04:01 +0000  Processing step: IDEDistributionSymbolsStep
+2023-04-03 08:04:02 +0000  Excluding symbols for libswiftCore.dylib
+2023-04-03 08:04:02 +0000  Excluding symbols for libswiftCoreFoundation.dylib
+2023-04-03 08:04:02 +0000  Excluding symbols for libswiftCoreGraphics.dylib
+2023-04-03 08:04:02 +0000  Excluding symbols for libswiftDarwin.dylib
+2023-04-03 08:04:02 +0000  Excluding symbols for libswiftDispatch.dylib
+2023-04-03 08:04:02 +0000  Excluding symbols for libswiftFoundation.dylib
+2023-04-03 08:04:02 +0000  Excluding symbols for libswiftObjectiveC.dylib
+2023-04-03 08:04:02 +0000  Processing symbols for SilverNew.app
+2023-04-03 08:04:02 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app' '--link-dest' '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload' '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM'
+2023-04-03 08:04:02 +0000  building file list ... 
+2023-04-03 08:04:02 +0000   0 files...2023-04-03 08:04:02 +0000   100 files...2023-04-03 08:04:02 +0000  195 files to consider
+2023-04-03 08:04:02 +0000  SilverNew.app/
+2023-04-03 08:04:02 +0000  SilverNew.app/AccessibilityResources.bundle/
+SilverNew.app/AccessibilityResources.bundle/_CodeSignature/
+SilverNew.app/AccessibilityResources.bundle/en.lproj/
+SilverNew.app/Frameworks/
+SilverNew.app/LaunchScreen.storyboardc/
+SilverNew.app/QBImagePicker.bundle/
+SilverNew.app/QBImagePicker.bundle/QBImagePicker.storyboardc/
+SilverNew.app/QBImagePicker.bundle/QBImagePicker.storyboardc/QBAlbumsNavigationController.nib/
+SilverNew.app/QBImagePicker.bundle/QBImagePicker.storyboardc/QBAlbumsViewController.nib/
+SilverNew.app/QBImagePicker.bundle/QBImagePicker.storyboardc/QBAssetsViewController.nib/
+SilverNew.app/QBImagePicker.bundle/QBImagePicker.storyboardc/QL5-wR-LYt-view-66K-TS-Yoc.nib/
+SilverNew.app/QBImagePicker.bundle/QBImagePicker.storyboardc/QiH-NZ-ZGN-view-sD2-zK-ryo.nib/
+2023-04-03 08:04:02 +0000  SilverNew.app/QBImagePicker.bundle/_CodeSignature/
+SilverNew.app/QBImagePicker.bundle/da.lproj/
+SilverNew.app/QBImagePicker.bundle/de.lproj/
+SilverNew.app/QBImagePicker.bundle/en.lproj/
+SilverNew.app/QBImagePicker.bundle/es.lproj/
+SilverNew.app/QBImagePicker.bundle/fi.lproj/
+SilverNew.app/QBImagePicker.bundle/fr.lproj/
+SilverNew.app/QBImagePicker.bundle/it.lproj/
+SilverNew.app/QBImagePicker.bundle/ja.lproj/
+SilverNew.app/QBImagePicker.bundle/ko.lproj/
+SilverNew.app/QBImagePicker.bundle/nb.lproj/
+SilverNew.app/QBImagePicker.bundle/pl.lproj/
+SilverNew.app/QBImagePicker.bundle/pt.lproj/
+SilverNew.app/QBImagePicker.bundle/ro.lproj/
+SilverNew.app/QBImagePicker.bundle/ru.lproj/
+SilverNew.app/QBImagePicker.bundle/sv.lproj/
+SilverNew.app/QBImagePicker.bundle/tr.lproj/
+SilverNew.app/QBImagePicker.bundle/uk.lproj/
+SilverNew.app/QBImagePicker.bundle/vi.lproj/
+SilverNew.app/QBImagePicker.bundle/zh-Hans.lproj/
+SilverNew.app/QBImagePicker.bundle/zh-Hant.lproj/
+SilverNew.app/TOCropViewControllerBundle.bundle/
+SilverNew.app/TOCropViewControllerBundle.bundle/Base.lproj/
+SilverNew.app/TOCropViewControllerBundle.bundle/_CodeSignature/
+SilverNew.app/TOCropViewControllerBundle.bundle/ar.lproj/
+SilverNew.app/TOCropViewControllerBundle.bundle/ca.lproj/
+SilverNew.app/TOCropViewControllerBundle.bundle/cs.lproj/
+SilverNew.app/TOCropViewControllerBundle.bundle/da-DK.lproj/
+SilverNew.app/TOCropViewControllerBundle.bundle/de.lproj/
+SilverNew.app/TOCropViewControllerBundle.bundle/en.lproj/
+SilverNew.app/TOCropViewControllerBundle.bundle/es.lproj/
+SilverNew.app/TOCropViewControllerBundle.bundle/fa-IR.lproj/
+SilverNew.app/TOCropViewControllerBundle.bundle/fa.lproj/
+SilverNew.app/TOCropViewControllerBundle.bundle/fi.lproj/
+SilverNew.app/TOCropViewControllerBundle.bundle/fr.lproj/
+SilverNew.app/TOCropViewControllerBundle.bundle/hu.lproj/
+SilverNew.app/TOCropViewControllerBundle.bundle/id.lproj/
+SilverNew.app/TOCropViewControllerBundle.bundle/it.lproj/
+2023-04-03 08:04:02 +0000  SilverNew.app/TOCropViewControllerBundle.bundle/ja.lproj/
+SilverNew.app/TOCropViewControllerBundle.bundle/ko.lproj/
+SilverNew.app/TOCropViewControllerBundle.bundle/ms.lproj/
+SilverNew.app/TOCropViewControllerBundle.bundle/nl.lproj/
+SilverNew.app/TOCropViewControllerBundle.bundle/pl.lproj/
+SilverNew.app/TOCropViewControllerBundle.bundle/pt-BR.lproj/
+SilverNew.app/TOCropViewControllerBundle.bundle/pt.lproj/
+SilverNew.app/TOCropViewControllerBundle.bundle/ro.lproj/
+SilverNew.app/TOCropViewControllerBundle.bundle/ru.lproj/
+SilverNew.app/TOCropViewControllerBundle.bundle/sk.lproj/
+SilverNew.app/TOCropViewControllerBundle.bundle/tr.lproj/
+SilverNew.app/TOCropViewControllerBundle.bundle/vi.lproj/
+SilverNew.app/TOCropViewControllerBundle.bundle/zh-Hans.lproj/
+SilverNew.app/TOCropViewControllerBundle.bundle/zh-Hant.lproj/
+SilverNew.app/_CodeSignature/
+2023-04-03 08:04:02 +0000  
+2023-04-03 08:04:02 +0000  sent 6.58K bytes  received 416 bytes  13.96K bytes/sec
+total size is 51.11M  speedup is 7494.96
+2023-04-03 08:04:02 +0000  /usr/bin/rsync exited with 0
+2023-04-03 08:04:02 +0000  Running /usr/bin/rsync '-8aPhhE' '/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/dSYMs/' '--link-dest' '/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/dSYMs/' '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM'
+2023-04-03 08:04:02 +0000  building file list ... 
+2023-04-03 08:04:02 +0000   0 files...2023-04-03 08:04:02 +0000  7 files to consider
+2023-04-03 08:04:02 +0000  ./
+2023-04-03 08:04:02 +0000  SilverNew.app.dSYM/
+SilverNew.app.dSYM/Contents/
+SilverNew.app.dSYM/Contents/Resources/
+SilverNew.app.dSYM/Contents/Resources/DWARF/
+2023-04-03 08:04:02 +0000  
+sent 242 bytes  received 50 bytes  584.00 bytes/sec
+total size is 39.81M  speedup is 142950.98
+2023-04-03 08:04:02 +0000  /usr/bin/rsync exited with 0
+2023-04-03 08:04:02 +0000  Writing /var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Symbols/88A60111-87C4-33D7-B4F8-2A3E943CD376.symbols
+2023-04-03 08:04:02 +0000  Processing step: IDEDistributionCopyAppleProvidedContentStep
+2023-04-03 08:04:02 +0000  Running /usr/bin/ditto '-V' '/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/SwiftSupport' '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/SwiftSupport'
+2023-04-03 08:04:02 +0000  >>> Copying /Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/SwiftSupport 
+2023-04-03 08:04:02 +0000  copying file ./iphoneos/libswiftObjectiveC.dylib ... 
+2023-04-03 08:04:02 +0000  853774 bytes for ./iphoneos/libswiftObjectiveC.dylib
+copying file ./iphoneos/libswiftCore.dylib ... 
+2023-04-03 08:04:02 +0000  140528730 bytes for ./iphoneos/libswiftCore.dylib
+copying file ./iphoneos/libswiftCoreGraphics.dylib ... 
+2023-04-03 08:04:02 +0000  2727566 bytes for ./iphoneos/libswiftCoreGraphics.dylib
+copying file ./iphoneos/libswiftDispatch.dylib ... 
+2023-04-03 08:04:02 +0000  5501554 bytes for ./iphoneos/libswiftDispatch.dylib
+2023-04-03 08:04:02 +0000  copying file ./iphoneos/libswiftCoreFoundation.dylib ... 
+2023-04-03 08:04:02 +0000  503807 bytes for ./iphoneos/libswiftCoreFoundation.dylib
+2023-04-03 08:04:02 +0000  copying file ./iphoneos/libswiftDarwin.dylib ... 
+2023-04-03 08:04:02 +0000  1412501 bytes for ./iphoneos/libswiftDarwin.dylib
+2023-04-03 08:04:02 +0000  copying file ./iphoneos/libswiftFoundation.dylib ... 
+2023-04-03 08:04:02 +0000  62290500 bytes for ./iphoneos/libswiftFoundation.dylib
+2023-04-03 08:04:02 +0000  /usr/bin/ditto exited with 0
+2023-04-03 08:04:02 +0000  Processing step: IDEDistributionAppThinningStep
+2023-04-03 08:04:02 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2023-04-03 08:04:02 +0000  Processing step: IDEDistributionArchThinningStep
+2023-04-03 08:04:02 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftCore.dylib' '-verify_arch' 'arm64e'
+2023-04-03 08:04:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-04-03 08:04:02 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftCore.dylib' '-remove' 'arm64e' '-output' '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftCore.dylib'
+2023-04-03 08:04:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-04-03 08:04:02 +0000  Successfully thinned item "libswiftCore.dylib", arch "arm64e"
+2023-04-03 08:04:02 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftCoreFoundation.dylib' '-verify_arch' 'arm64e'
+2023-04-03 08:04:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-04-03 08:04:02 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftCoreFoundation.dylib' '-remove' 'arm64e' '-output' '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftCoreFoundation.dylib'
+2023-04-03 08:04:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-04-03 08:04:02 +0000  Successfully thinned item "libswiftCoreFoundation.dylib", arch "arm64e"
+2023-04-03 08:04:02 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftCoreGraphics.dylib' '-verify_arch' 'arm64e'
+2023-04-03 08:04:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-04-03 08:04:02 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftCoreGraphics.dylib' '-remove' 'arm64e' '-output' '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftCoreGraphics.dylib'
+2023-04-03 08:04:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-04-03 08:04:02 +0000  Successfully thinned item "libswiftCoreGraphics.dylib", arch "arm64e"
+2023-04-03 08:04:02 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftDarwin.dylib' '-verify_arch' 'arm64e'
+2023-04-03 08:04:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-04-03 08:04:02 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftDarwin.dylib' '-remove' 'arm64e' '-output' '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftDarwin.dylib'
+2023-04-03 08:04:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-04-03 08:04:02 +0000  Successfully thinned item "libswiftDarwin.dylib", arch "arm64e"
+2023-04-03 08:04:02 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftDispatch.dylib' '-verify_arch' 'arm64e'
+2023-04-03 08:04:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-04-03 08:04:02 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftDispatch.dylib' '-remove' 'arm64e' '-output' '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftDispatch.dylib'
+2023-04-03 08:04:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-04-03 08:04:02 +0000  Successfully thinned item "libswiftDispatch.dylib", arch "arm64e"
+2023-04-03 08:04:02 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftFoundation.dylib' '-verify_arch' 'arm64e'
+2023-04-03 08:04:03 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-04-03 08:04:03 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftFoundation.dylib' '-remove' 'arm64e' '-output' '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftFoundation.dylib'
+2023-04-03 08:04:03 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-04-03 08:04:03 +0000  Successfully thinned item "libswiftFoundation.dylib", arch "arm64e"
+2023-04-03 08:04:03 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftObjectiveC.dylib' '-verify_arch' 'arm64e'
+2023-04-03 08:04:03 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-04-03 08:04:03 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftObjectiveC.dylib' '-remove' 'arm64e' '-output' '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftObjectiveC.dylib'
+2023-04-03 08:04:03 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-04-03 08:04:03 +0000  Successfully thinned item "libswiftObjectiveC.dylib", arch "arm64e"
+2023-04-03 08:04:03 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/SilverNew' '-verify_arch' 'arm64e'
+2023-04-03 08:04:03 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-04-03 08:04:03 +0000  Skipping architecture thinning for item "SilverNew" because arch "arm64e" wasn't found
+2023-04-03 08:04:03 +0000  Processing step: IDEDistributionODRStep
+2023-04-03 08:04:03 +0000  Processing step: IDEDistributionStripXattrsStep
+2023-04-03 08:04:03 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x60001ca36b20; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x60004c40df10:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600028fd0960; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000718e8a50; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='(null)', teamID='K7HHH4XT2L', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x60004c40df10:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'>
+2023-04-03 08:04:03 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x600094a3d5c0; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x600088342280:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600028fd34d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000718e8a50; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='(null)', teamID='K7HHH4XT2L', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x600088342280:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'>
+2023-04-03 08:04:03 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x600094a3fc00; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x600088379e00:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600028fd2c60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000718e8a50; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='(null)', teamID='K7HHH4XT2L', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x600088379e00:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'>
+2023-04-03 08:04:03 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x60001ca232a0; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x60003079efb0:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600058ff2760; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000718e8a50; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='(null)', teamID='K7HHH4XT2L', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x60003079efb0:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'>
+2023-04-03 08:04:03 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x60001ca372a0; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x60004c458cb0:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600028fd2a30; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60006db40000; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='(null)', teamID='K7HHH4XT2L', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x60004c458cb0:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'>
+2023-04-03 08:04:03 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x60001ca7ee20; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x600094188e80:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600028fd0550; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60006db40000; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='(null)', teamID='K7HHH4XT2L', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x600094188e80:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'>
+2023-04-03 08:04:03 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x6000085dd200; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x6000941bf880:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600028fd2580; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60006db40000; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='(null)', teamID='K7HHH4XT2L', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x6000941bf880:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'>
+2023-04-03 08:04:03 +0000  Running /usr/bin/xattr '-crs' '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app'
+2023-04-03 08:04:03 +0000  /usr/bin/xattr exited with 0
+2023-04-03 08:04:03 +0000  Processing step: IDEDistributionCodesignStep
+2023-04-03 08:04:03 +0000  Entitlements for <IDEDistributionItem: 0x60001ca36b20; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x60004c40df10:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600028fd0960; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000718e9130; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='(null)', teamID='K7HHH4XT2L', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x60004c40df10:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'>: {
+}
+2023-04-03 08:04:03 +0000  Entitlements for <IDEDistributionItem: 0x60001ca36b20; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x60004c40df10:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600028fd0960; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000718e8e70; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='(null)', teamID='K7HHH4XT2L', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x60004c40df10:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2023-04-03 08:04:03 +0000  Writing entitlements for <IDEDistributionItem: 0x60001ca36b20; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x60004c40df10:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600028fd0960; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000718e88f0; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='(null)', teamID='K7HHH4XT2L', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x60004c40df10:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'> to: /var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/entitlements~~~aUV0SK
+2023-04-03 08:04:03 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'F1330D17D599C7609C4E786BA3D89EFFBAE9F7EA' '--entitlements' '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/entitlements~~~aUV0SK' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftCore.dylib'
+2023-04-03 08:04:03 +0000  /var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftCore.dylib: replacing existing signature
+2023-04-03 08:04:23 +0000  /var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftCore.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCore]
+2023-04-03 08:04:23 +0000  /usr/bin/codesign exited with 0
+2023-04-03 08:04:23 +0000  Entitlements for <IDEDistributionItem: 0x600094a3d5c0; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x600088342280:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600028fd34d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60006db70790; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='(null)', teamID='K7HHH4XT2L', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x600088342280:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'>: {
+}
+2023-04-03 08:04:23 +0000  Entitlements for <IDEDistributionItem: 0x600094a3d5c0; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x600088342280:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600028fd34d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000718e8a50; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='(null)', teamID='K7HHH4XT2L', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x600088342280:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2023-04-03 08:04:23 +0000  Writing entitlements for <IDEDistributionItem: 0x600094a3d5c0; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x600088342280:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600028fd34d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60006db70a50; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='(null)', teamID='K7HHH4XT2L', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x600088342280:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'> to: /var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/entitlements~~~L33OsL
+2023-04-03 08:04:23 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'F1330D17D599C7609C4E786BA3D89EFFBAE9F7EA' '--entitlements' '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/entitlements~~~L33OsL' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftCoreFoundation.dylib'
+2023-04-03 08:04:23 +0000  /var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftCoreFoundation.dylib: replacing existing signature
+2023-04-03 08:04:23 +0000  /var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftCoreFoundation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreFoundation]
+2023-04-03 08:04:23 +0000  /usr/bin/codesign exited with 0
+2023-04-03 08:04:23 +0000  Entitlements for <IDEDistributionItem: 0x600094a3fc00; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x600088379e00:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600028fd2c60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000718e9130; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='(null)', teamID='K7HHH4XT2L', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x600088379e00:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'>: {
+}
+2023-04-03 08:04:23 +0000  Entitlements for <IDEDistributionItem: 0x600094a3fc00; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x600088379e00:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600028fd2c60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60006db40000; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='(null)', teamID='K7HHH4XT2L', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x600088379e00:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2023-04-03 08:04:23 +0000  Writing entitlements for <IDEDistributionItem: 0x600094a3fc00; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x600088379e00:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600028fd2c60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60006db70790; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='(null)', teamID='K7HHH4XT2L', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x600088379e00:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'> to: /var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/entitlements~~~MJTtR1
+2023-04-03 08:04:23 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'F1330D17D599C7609C4E786BA3D89EFFBAE9F7EA' '--entitlements' '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/entitlements~~~MJTtR1' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftCoreGraphics.dylib'
+2023-04-03 08:04:23 +0000  /var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftCoreGraphics.dylib: replacing existing signature
+2023-04-03 08:04:23 +0000  /var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftCoreGraphics.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreGraphics]
+2023-04-03 08:04:23 +0000  /usr/bin/codesign exited with 0
+2023-04-03 08:04:23 +0000  Entitlements for <IDEDistributionItem: 0x60001ca232a0; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x60003079efb0:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600058ff2760; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000718e9130; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='(null)', teamID='K7HHH4XT2L', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x60003079efb0:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'>: {
+}
+2023-04-03 08:04:23 +0000  Entitlements for <IDEDistributionItem: 0x60001ca232a0; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x60003079efb0:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600058ff2760; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60006db40000; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='(null)', teamID='K7HHH4XT2L', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x60003079efb0:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2023-04-03 08:04:23 +0000  Writing entitlements for <IDEDistributionItem: 0x60001ca232a0; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x60003079efb0:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600058ff2760; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60006db40420; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='(null)', teamID='K7HHH4XT2L', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x60003079efb0:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'> to: /var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/entitlements~~~7d1MfL
+2023-04-03 08:04:23 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'F1330D17D599C7609C4E786BA3D89EFFBAE9F7EA' '--entitlements' '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/entitlements~~~7d1MfL' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftDarwin.dylib'
+2023-04-03 08:04:23 +0000  /var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftDarwin.dylib: replacing existing signature
+2023-04-03 08:04:23 +0000  /var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftDarwin.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftDarwin]
+2023-04-03 08:04:23 +0000  /usr/bin/codesign exited with 0
+2023-04-03 08:04:23 +0000  Entitlements for <IDEDistributionItem: 0x60001ca372a0; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x60004c458cb0:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600028fd2a30; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60006db400b0; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='(null)', teamID='K7HHH4XT2L', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x60004c458cb0:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'>: {
+}
+2023-04-03 08:04:23 +0000  Entitlements for <IDEDistributionItem: 0x60001ca372a0; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x60004c458cb0:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600028fd2a30; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60006db40420; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='(null)', teamID='K7HHH4XT2L', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x60004c458cb0:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2023-04-03 08:04:23 +0000  Writing entitlements for <IDEDistributionItem: 0x60001ca372a0; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x60004c458cb0:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600028fd2a30; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60006db404d0; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='(null)', teamID='K7HHH4XT2L', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x60004c458cb0:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'> to: /var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/entitlements~~~taxEaV
+2023-04-03 08:04:23 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'F1330D17D599C7609C4E786BA3D89EFFBAE9F7EA' '--entitlements' '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/entitlements~~~taxEaV' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftDispatch.dylib'
+2023-04-03 08:04:23 +0000  /var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftDispatch.dylib: replacing existing signature
+2023-04-03 08:04:23 +0000  /var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftDispatch.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftDispatch]
+2023-04-03 08:04:23 +0000  /usr/bin/codesign exited with 0
+2023-04-03 08:04:23 +0000  Entitlements for <IDEDistributionItem: 0x60001ca7ee20; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x600094188e80:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600028fd0550; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60006db400b0; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='(null)', teamID='K7HHH4XT2L', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x600094188e80:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'>: {
+}
+2023-04-03 08:04:23 +0000  Entitlements for <IDEDistributionItem: 0x60001ca7ee20; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x600094188e80:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600028fd0550; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60006db40420; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='(null)', teamID='K7HHH4XT2L', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x600094188e80:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2023-04-03 08:04:23 +0000  Writing entitlements for <IDEDistributionItem: 0x60001ca7ee20; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x600094188e80:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600028fd0550; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60006db404d0; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='(null)', teamID='K7HHH4XT2L', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x600094188e80:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'> to: /var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/entitlements~~~Lo0vs3
+2023-04-03 08:04:23 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'F1330D17D599C7609C4E786BA3D89EFFBAE9F7EA' '--entitlements' '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/entitlements~~~Lo0vs3' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftFoundation.dylib'
+2023-04-03 08:04:23 +0000  /var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftFoundation.dylib: replacing existing signature
+2023-04-03 08:04:23 +0000  /var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftFoundation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftFoundation]
+2023-04-03 08:04:23 +0000  /usr/bin/codesign exited with 0
+2023-04-03 08:04:23 +0000  Entitlements for <IDEDistributionItem: 0x6000085dd200; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x6000941bf880:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600028fd2580; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60006db400b0; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='(null)', teamID='K7HHH4XT2L', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x6000941bf880:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'>: {
+}
+2023-04-03 08:04:23 +0000  Entitlements for <IDEDistributionItem: 0x6000085dd200; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x6000941bf880:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600028fd2580; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000718e8a50; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='(null)', teamID='K7HHH4XT2L', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x6000941bf880:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2023-04-03 08:04:23 +0000  Writing entitlements for <IDEDistributionItem: 0x6000085dd200; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x6000941bf880:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600028fd2580; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000718e8e70; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='(null)', teamID='K7HHH4XT2L', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x6000941bf880:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'> to: /var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/entitlements~~~WG6b73
+2023-04-03 08:04:23 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'F1330D17D599C7609C4E786BA3D89EFFBAE9F7EA' '--entitlements' '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/entitlements~~~WG6b73' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftObjectiveC.dylib'
+2023-04-03 08:04:23 +0000  /var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftObjectiveC.dylib: replacing existing signature
+2023-04-03 08:04:24 +0000  /var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftObjectiveC.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftObjectiveC]
+2023-04-03 08:04:24 +0000  /usr/bin/codesign exited with 0
+2023-04-03 08:04:24 +0000  Entitlements for <IDEDistributionItem: 0x60001ca23120; bundleID='com.greenatom.record', path='<DVTFilePath:0x60004c44d6c0:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600058fe8690; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60006db400b0; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='{
+    "application-identifier" = "K7HHH4XT2L.com.greenatom.record";
+    "aps-environment" = development;
+    "com.apple.developer.associated-domains" =     (
+        "applinks:dml.rosatom.ru",
+        "applinks:ml.rosatom.ru",
+        "applinks:tml.rosatom.ru"
+    );
+    "com.apple.developer.team-identifier" = K7HHH4XT2L;
+    "get-task-allow" = 1;
+}', teamID='K7HHH4XT2L', identifier='com.greenatom.record', executablePath='<DVTFilePath:0x60004c421ea0:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/SilverNew'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "K7HHH4XT2L.com.greenatom.record";
+    "aps-environment" = production;
+    "beta-reports-active" = 1;
+    "com.apple.developer.associated-domains" =     (
+        "applinks:dml.rosatom.ru",
+        "applinks:ml.rosatom.ru",
+        "applinks:tml.rosatom.ru"
+    );
+    "com.apple.developer.team-identifier" = K7HHH4XT2L;
+    "get-task-allow" = 0;
+}
+2023-04-03 08:04:24 +0000  Entitlements for <IDEDistributionItem: 0x60001ca23120; bundleID='com.greenatom.record', path='<DVTFilePath:0x60004c44d6c0:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600058fe8690; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000718e8a50; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='{
+    "application-identifier" = "K7HHH4XT2L.com.greenatom.record";
+    "aps-environment" = development;
+    "com.apple.developer.associated-domains" =     (
+        "applinks:dml.rosatom.ru",
+        "applinks:ml.rosatom.ru",
+        "applinks:tml.rosatom.ru"
+    );
+    "com.apple.developer.team-identifier" = K7HHH4XT2L;
+    "get-task-allow" = 1;
+}', teamID='K7HHH4XT2L', identifier='com.greenatom.record', executablePath='<DVTFilePath:0x60004c421ea0:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/SilverNew'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "K7HHH4XT2L.com.greenatom.record";
+    "aps-environment" = production;
+    "beta-reports-active" = 1;
+    "com.apple.developer.associated-domains" =     (
+        "applinks:dml.rosatom.ru",
+        "applinks:ml.rosatom.ru",
+        "applinks:tml.rosatom.ru"
+    );
+    "com.apple.developer.team-identifier" = K7HHH4XT2L;
+    "get-task-allow" = 0;
+}
+2023-04-03 08:04:24 +0000  Writing entitlements for <IDEDistributionItem: 0x60001ca23120; bundleID='com.greenatom.record', path='<DVTFilePath:0x60004c44d6c0:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600058fe8690; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000718e8e70; name='Apple Development: Алина Шаймиева (5XBFX6A845)', hash='C322094FA872312EB4E2BEE714BAE61D2EE0E04F', serialNumber='2E39CE818D9E8E0BDBCD9E6035F485DA', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-11-21 06:29:33 +0000''>', entitlements='{
+    "application-identifier" = "K7HHH4XT2L.com.greenatom.record";
+    "aps-environment" = development;
+    "com.apple.developer.associated-domains" =     (
+        "applinks:dml.rosatom.ru",
+        "applinks:ml.rosatom.ru",
+        "applinks:tml.rosatom.ru"
+    );
+    "com.apple.developer.team-identifier" = K7HHH4XT2L;
+    "get-task-allow" = 1;
+}', teamID='K7HHH4XT2L', identifier='com.greenatom.record', executablePath='<DVTFilePath:0x60004c421ea0:'/Users/alina/Library/Developer/Xcode/Archives/2023-04-03/rosatom 03.04.2023, 13.01.xcarchive/Products/Applications/SilverNew.app/SilverNew'>', hardenedRuntime='0'>'> to: /var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/entitlements~~~llfAtO
+2023-04-03 08:04:24 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'F1330D17D599C7609C4E786BA3D89EFFBAE9F7EA' '--entitlements' '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/entitlements~~~llfAtO' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app'
+2023-04-03 08:04:24 +0000  /var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app: replacing existing signature
+2023-04-03 08:04:24 +0000  /var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app: signed app bundle with Mach-O thin (arm64) [com.greenatom.record]
+2023-04-03 08:04:24 +0000  /usr/bin/codesign exited with 0
+2023-04-03 08:04:24 +0000  Processing step: IDEDistributionZipODRItemStep
+2023-04-03 08:04:24 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-04-03 08:04:24 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-04-03 08:04:24 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-04-03 08:04:24 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-04-03 08:04:24 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-04-03 08:04:24 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-04-03 08:04:24 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-04-03 08:04:24 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-04-03 08:04:24 +0000  Processing step: IDEDistributionCreateIPAStep
+2023-04-03 08:04:24 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Symbols' '--link-dest' '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM' '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root'
+2023-04-03 08:04:24 +0000  building file list ... 
+2023-04-03 08:04:24 +0000   0 files...2023-04-03 08:04:24 +0000  2 files to consider
+2023-04-03 08:04:24 +0000  Symbols/
+2023-04-03 08:04:24 +0000  
+sent 142 bytes  received 26 bytes  336.00 bytes/sec
+total size is 11.59M  speedup is 72358.45
+2023-04-03 08:04:24 +0000  /usr/bin/rsync exited with 0
+2023-04-03 08:04:24 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root' '/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Packages/SilverNew.ipa'
+2023-04-03 08:04:24 +0000  >>> Copying /var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root 
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/_CodeSignature/CodeResources ... 
+2023-04-03 08:04:24 +0000  43435 bytes for ./Payload/SilverNew.app/_CodeSignature/CodeResources
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/icomoon.ttf ... 
+2023-04-03 08:04:24 +0000  54104 bytes for ./Payload/SilverNew.app/icomoon.ttf
+copying file ./Payload/SilverNew.app/Fontisto.ttf ... 
+2023-04-03 08:04:24 +0000  313528 bytes for ./Payload/SilverNew.app/Fontisto.ttf
+copying file ./Payload/SilverNew.app/Octicons.ttf ... 
+2023-04-03 08:04:24 +0000  28364 bytes for ./Payload/SilverNew.app/Octicons.ttf
+copying file ./Payload/SilverNew.app/Feather.ttf ... 
+2023-04-03 08:04:24 +0000  58272 bytes for ./Payload/SilverNew.app/Feather.ttf
+copying file ./Payload/SilverNew.app/fontello.ttf ... 
+2023-04-03 08:04:24 +0000  75212 bytes for ./Payload/SilverNew.app/fontello.ttf
+copying file ./Payload/SilverNew.app/Entypo.ttf ... 
+2023-04-03 08:04:24 +0000  65584 bytes for ./Payload/SilverNew.app/Entypo.ttf
+copying file ./Payload/SilverNew.app/Source-Sans-Pro-Light.ttf ... 
+2023-04-03 08:04:24 +0000  58460 bytes for ./Payload/SilverNew.app/Source-Sans-Pro-Light.ttf
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/QBImagePicker.bundle/de.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:24 +0000  1131 bytes for ./Payload/SilverNew.app/QBImagePicker.bundle/de.lproj/QBImagePicker.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/QBImagePicker.bundle/_CodeSignature/CodeResources ... 
+2023-04-03 08:04:24 +0000  14598 bytes for ./Payload/SilverNew.app/QBImagePicker.bundle/_CodeSignature/CodeResources
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/QBImagePicker.bundle/_CodeSignature/CodeDirectory ... 
+2023-04-03 08:04:24 +0000  171 bytes for ./Payload/SilverNew.app/QBImagePicker.bundle/_CodeSignature/CodeDirectory
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/QBImagePicker.bundle/_CodeSignature/CodeRequirements-1 ... 
+2023-04-03 08:04:24 +0000  219 bytes for ./Payload/SilverNew.app/QBImagePicker.bundle/_CodeSignature/CodeRequirements-1
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/QBImagePicker.bundle/_CodeSignature/CodeSignature ... 
+2023-04-03 08:04:24 +0000  4877 bytes for ./Payload/SilverNew.app/QBImagePicker.bundle/_CodeSignature/CodeSignature
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/QBImagePicker.bundle/_CodeSignature/CodeRequirements ... 
+2023-04-03 08:04:24 +0000  204 bytes for ./Payload/SilverNew.app/QBImagePicker.bundle/_CodeSignature/CodeRequirements
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/QBImagePicker.bundle/zh-Hans.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:24 +0000  1119 bytes for ./Payload/SilverNew.app/QBImagePicker.bundle/zh-Hans.lproj/QBImagePicker.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/QBImagePicker.bundle/ja.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:24 +0000  1214 bytes for ./Payload/SilverNew.app/QBImagePicker.bundle/ja.lproj/QBImagePicker.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/QBImagePicker.bundle/en.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:24 +0000  1064 bytes for ./Payload/SilverNew.app/QBImagePicker.bundle/en.lproj/QBImagePicker.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/QBImagePicker.bundle/uk.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:24 +0000  1398 bytes for ./Payload/SilverNew.app/QBImagePicker.bundle/uk.lproj/QBImagePicker.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/QBImagePicker.bundle/QBImagePicker.storyboardc/QiH-NZ-ZGN-view-sD2-zK-ryo.nib/runtime.nib ... 
+2023-04-03 08:04:24 +0000  10216 bytes for ./Payload/SilverNew.app/QBImagePicker.bundle/QBImagePicker.storyboardc/QiH-NZ-ZGN-view-sD2-zK-ryo.nib/runtime.nib
+copying file ./Payload/SilverNew.app/QBImagePicker.bundle/QBImagePicker.storyboardc/QiH-NZ-ZGN-view-sD2-zK-ryo.nib/objects-12.3+.nib ... 
+2023-04-03 08:04:24 +0000  10443 bytes for ./Payload/SilverNew.app/QBImagePicker.bundle/QBImagePicker.storyboardc/QiH-NZ-ZGN-view-sD2-zK-ryo.nib/objects-12.3+.nib
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/QBImagePicker.bundle/QBImagePicker.storyboardc/QBAlbumsViewController.nib/runtime.nib ... 
+2023-04-03 08:04:24 +0000  1800 bytes for ./Payload/SilverNew.app/QBImagePicker.bundle/QBImagePicker.storyboardc/QBAlbumsViewController.nib/runtime.nib
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/QBImagePicker.bundle/QBImagePicker.storyboardc/QBAlbumsViewController.nib/objects-12.3+.nib ... 
+2023-04-03 08:04:24 +0000  1800 bytes for ./Payload/SilverNew.app/QBImagePicker.bundle/QBImagePicker.storyboardc/QBAlbumsViewController.nib/objects-12.3+.nib
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/QBImagePicker.bundle/QBImagePicker.storyboardc/QBAssetsViewController.nib/runtime.nib ... 
+2023-04-03 08:04:24 +0000  1393 bytes for ./Payload/SilverNew.app/QBImagePicker.bundle/QBImagePicker.storyboardc/QBAssetsViewController.nib/runtime.nib
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/QBImagePicker.bundle/QBImagePicker.storyboardc/QBAssetsViewController.nib/objects-12.3+.nib ... 
+2023-04-03 08:04:24 +0000  1393 bytes for ./Payload/SilverNew.app/QBImagePicker.bundle/QBImagePicker.storyboardc/QBAssetsViewController.nib/objects-12.3+.nib
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/QBImagePicker.bundle/QBImagePicker.storyboardc/QL5-wR-LYt-view-66K-TS-Yoc.nib/runtime.nib ... 
+2023-04-03 08:04:24 +0000  7161 bytes for ./Payload/SilverNew.app/QBImagePicker.bundle/QBImagePicker.storyboardc/QL5-wR-LYt-view-66K-TS-Yoc.nib/runtime.nib
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/QBImagePicker.bundle/QBImagePicker.storyboardc/QL5-wR-LYt-view-66K-TS-Yoc.nib/objects-12.3+.nib ... 
+2023-04-03 08:04:24 +0000  7161 bytes for ./Payload/SilverNew.app/QBImagePicker.bundle/QBImagePicker.storyboardc/QL5-wR-LYt-view-66K-TS-Yoc.nib/objects-12.3+.nib
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/QBImagePicker.bundle/QBImagePicker.storyboardc/QBAlbumsNavigationController.nib/runtime.nib ... 
+2023-04-03 08:04:24 +0000  2617 bytes for ./Payload/SilverNew.app/QBImagePicker.bundle/QBImagePicker.storyboardc/QBAlbumsNavigationController.nib/runtime.nib
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/QBImagePicker.bundle/QBImagePicker.storyboardc/QBAlbumsNavigationController.nib/objects-12.3+.nib ... 
+2023-04-03 08:04:24 +0000  2617 bytes for ./Payload/SilverNew.app/QBImagePicker.bundle/QBImagePicker.storyboardc/QBAlbumsNavigationController.nib/objects-12.3+.nib
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/QBImagePicker.bundle/QBImagePicker.storyboardc/Info.plist ... 
+2023-04-03 08:04:24 +0000  289 bytes for ./Payload/SilverNew.app/QBImagePicker.bundle/QBImagePicker.storyboardc/Info.plist
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/QBImagePicker.bundle/nb.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:24 +0000  1076 bytes for ./Payload/SilverNew.app/QBImagePicker.bundle/nb.lproj/QBImagePicker.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/QBImagePicker.bundle/es.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:24 +0000  1113 bytes for ./Payload/SilverNew.app/QBImagePicker.bundle/es.lproj/QBImagePicker.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/QBImagePicker.bundle/da.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:24 +0000  1015 bytes for ./Payload/SilverNew.app/QBImagePicker.bundle/da.lproj/QBImagePicker.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/QBImagePicker.bundle/it.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:24 +0000  1088 bytes for ./Payload/SilverNew.app/QBImagePicker.bundle/it.lproj/QBImagePicker.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/QBImagePicker.bundle/sv.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:24 +0000  1082 bytes for ./Payload/SilverNew.app/QBImagePicker.bundle/sv.lproj/QBImagePicker.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/QBImagePicker.bundle/ko.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:24 +0000  1139 bytes for ./Payload/SilverNew.app/QBImagePicker.bundle/ko.lproj/QBImagePicker.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/QBImagePicker.bundle/zh-Hant.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:24 +0000  1119 bytes for ./Payload/SilverNew.app/QBImagePicker.bundle/zh-Hant.lproj/QBImagePicker.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/QBImagePicker.bundle/tr.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:24 +0000  1104 bytes for ./Payload/SilverNew.app/QBImagePicker.bundle/tr.lproj/QBImagePicker.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/QBImagePicker.bundle/pl.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:24 +0000  1119 bytes for ./Payload/SilverNew.app/QBImagePicker.bundle/pl.lproj/QBImagePicker.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/QBImagePicker.bundle/vi.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:24 +0000  1143 bytes for ./Payload/SilverNew.app/QBImagePicker.bundle/vi.lproj/QBImagePicker.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/QBImagePicker.bundle/ru.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:24 +0000  1433 bytes for ./Payload/SilverNew.app/QBImagePicker.bundle/ru.lproj/QBImagePicker.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/QBImagePicker.bundle/fr.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:24 +0000  1153 bytes for ./Payload/SilverNew.app/QBImagePicker.bundle/fr.lproj/QBImagePicker.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/QBImagePicker.bundle/fi.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:24 +0000  1002 bytes for ./Payload/SilverNew.app/QBImagePicker.bundle/fi.lproj/QBImagePicker.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/QBImagePicker.bundle/pt.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:24 +0000  1112 bytes for ./Payload/SilverNew.app/QBImagePicker.bundle/pt.lproj/QBImagePicker.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/QBImagePicker.bundle/ro.lproj/QBImagePicker.strings ... 
+2023-04-03 08:04:24 +0000  1127 bytes for ./Payload/SilverNew.app/QBImagePicker.bundle/ro.lproj/QBImagePicker.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/QBImagePicker.bundle/Info.plist ... 
+2023-04-03 08:04:24 +0000  772 bytes for ./Payload/SilverNew.app/QBImagePicker.bundle/Info.plist
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/FontAwesome5_Brands.ttf ... 
+2023-04-03 08:04:24 +0000  132728 bytes for ./Payload/SilverNew.app/FontAwesome5_Brands.ttf
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/MaterialCommunityIcons.ttf ... 
+2023-04-03 08:04:24 +0000  899432 bytes for ./Payload/SilverNew.app/MaterialCommunityIcons.ttf
+copying file ./Payload/SilverNew.app/AppIcon60x60@2x.png ... 
+2023-04-03 08:04:24 +0000  2414 bytes for ./Payload/SilverNew.app/AppIcon60x60@2x.png
+copying file ./Payload/SilverNew.app/AntDesign.ttf ... 
+2023-04-03 08:04:24 +0000  70344 bytes for ./Payload/SilverNew.app/AntDesign.ttf
+copying file ./Payload/SilverNew.app/Foundation.ttf ... 
+2023-04-03 08:04:24 +0000  56976 bytes for ./Payload/SilverNew.app/Foundation.ttf
+copying file ./Payload/SilverNew.app/Raleway-Regular.ttf ... 
+2023-04-03 08:04:24 +0000  176188 bytes for ./Payload/SilverNew.app/Raleway-Regular.ttf
+copying file ./Payload/SilverNew.app/Ionicons.ttf ... 
+2023-04-03 08:04:24 +0000  247192 bytes for ./Payload/SilverNew.app/Ionicons.ttf
+copying file ./Payload/SilverNew.app/FontAwesome5_Solid.ttf ... 
+2023-04-03 08:04:24 +0000  202616 bytes for ./Payload/SilverNew.app/FontAwesome5_Solid.ttf
+copying file ./Payload/SilverNew.app/FontAwesome5_Regular.ttf ... 
+2023-04-03 08:04:24 +0000  34092 bytes for ./Payload/SilverNew.app/FontAwesome5_Regular.ttf
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/AccessibilityResources.bundle/_CodeSignature/CodeResources ... 
+2023-04-03 08:04:24 +0000  2155 bytes for ./Payload/SilverNew.app/AccessibilityResources.bundle/_CodeSignature/CodeResources
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/AccessibilityResources.bundle/_CodeSignature/CodeDirectory ... 
+2023-04-03 08:04:24 +0000  180 bytes for ./Payload/SilverNew.app/AccessibilityResources.bundle/_CodeSignature/CodeDirectory
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/AccessibilityResources.bundle/_CodeSignature/CodeRequirements-1 ... 
+2023-04-03 08:04:24 +0000  228 bytes for ./Payload/SilverNew.app/AccessibilityResources.bundle/_CodeSignature/CodeRequirements-1
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/AccessibilityResources.bundle/_CodeSignature/CodeSignature ... 
+2023-04-03 08:04:24 +0000  4877 bytes for ./Payload/SilverNew.app/AccessibilityResources.bundle/_CodeSignature/CodeSignature
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/AccessibilityResources.bundle/_CodeSignature/CodeRequirements ... 
+2023-04-03 08:04:24 +0000  212 bytes for ./Payload/SilverNew.app/AccessibilityResources.bundle/_CodeSignature/CodeRequirements
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/AccessibilityResources.bundle/en.lproj/Localizable.strings ... 
+2023-04-03 08:04:24 +0000  518 bytes for ./Payload/SilverNew.app/AccessibilityResources.bundle/en.lproj/Localizable.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/AccessibilityResources.bundle/Info.plist ... 
+2023-04-03 08:04:24 +0000  792 bytes for ./Payload/SilverNew.app/AccessibilityResources.bundle/Info.plist
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/LaunchScreen.nib ... 
+2023-04-03 08:04:24 +0000  879 bytes for ./Payload/SilverNew.app/LaunchScreen.nib
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/Raleway-Light.ttf ... 
+2023-04-03 08:04:24 +0000  182376 bytes for ./Payload/SilverNew.app/Raleway-Light.ttf
+copying file ./Payload/SilverNew.app/FontAwesome.ttf ... 
+2023-04-03 08:04:24 +0000  165548 bytes for ./Payload/SilverNew.app/FontAwesome.ttf
+copying file ./Payload/SilverNew.app/Zocial.ttf ... 
+2023-04-03 08:04:24 +0000  25552 bytes for ./Payload/SilverNew.app/Zocial.ttf
+copying file ./Payload/SilverNew.app/Circe-Bold.ttf ... 
+2023-04-03 08:04:24 +0000  428508 bytes for ./Payload/SilverNew.app/Circe-Bold.ttf
+copying file ./Payload/SilverNew.app/Source-Sans-Pro.ttf ... 
+2023-04-03 08:04:24 +0000  64844 bytes for ./Payload/SilverNew.app/Source-Sans-Pro.ttf
+copying file ./Payload/SilverNew.app/Assets.car ... 
+2023-04-03 08:04:24 +0000  90408 bytes for ./Payload/SilverNew.app/Assets.car
+copying file ./Payload/SilverNew.app/EvilIcons.ttf ... 
+2023-04-03 08:04:24 +0000  13456 bytes for ./Payload/SilverNew.app/EvilIcons.ttf
+copying file ./Payload/SilverNew.app/logo.png ... 
+2023-04-03 08:04:24 +0000  50314 bytes for ./Payload/SilverNew.app/logo.png
+copying file ./Payload/SilverNew.app/AppIcon76x76@2x~ipad.png ... 
+2023-04-03 08:04:24 +0000  2974 bytes for ./Payload/SilverNew.app/AppIcon76x76@2x~ipad.png
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/launch_screen.png ... 
+2023-04-03 08:04:24 +0000  53258 bytes for ./Payload/SilverNew.app/launch_screen.png
+copying file ./Payload/SilverNew.app/SilverNew ... 
+2023-04-03 08:04:24 +0000  10450560 bytes for ./Payload/SilverNew.app/SilverNew
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2023-04-03 08:04:24 +0000  1631 bytes for ./Payload/SilverNew.app/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Payload/SilverNew.app/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2023-04-03 08:04:24 +0000  896 bytes for ./Payload/SilverNew.app/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Payload/SilverNew.app/LaunchScreen.storyboardc/Info.plist ... 
+2023-04-03 08:04:24 +0000  258 bytes for ./Payload/SilverNew.app/LaunchScreen.storyboardc/Info.plist
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/de.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:24 +0000  189 bytes for ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/de.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/_CodeSignature/CodeResources ... 
+2023-04-03 08:04:24 +0000  15092 bytes for ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/_CodeSignature/CodeResources
+copying file ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/_CodeSignature/CodeDirectory ... 
+2023-04-03 08:04:24 +0000  184 bytes for ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/_CodeSignature/CodeDirectory
+copying file ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/_CodeSignature/CodeRequirements-1 ... 
+2023-04-03 08:04:24 +0000  232 bytes for ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/_CodeSignature/CodeRequirements-1
+copying file ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/_CodeSignature/CodeSignature ... 
+2023-04-03 08:04:24 +0000  4877 bytes for ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/_CodeSignature/CodeSignature
+copying file ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/_CodeSignature/CodeRequirements ... 
+2023-04-03 08:04:24 +0000  216 bytes for ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/_CodeSignature/CodeRequirements
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/ar.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:24 +0000  207 bytes for ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/ar.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/zh-Hans.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:24 +0000  172 bytes for ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/zh-Hans.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/ja.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:24 +0000  210 bytes for ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/ja.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/fa.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:24 +0000  210 bytes for ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/fa.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/en.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:24 +0000  168 bytes for ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/en.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/es.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:24 +0000  179 bytes for ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/es.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/it.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:24 +0000  181 bytes for ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/it.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/sk.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:24 +0000  176 bytes for ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/sk.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/ms.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:24 +0000  173 bytes for ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/ms.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/cs.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:24 +0000  173 bytes for ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/cs.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/ko.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:24 +0000  187 bytes for ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/ko.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/Base.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:24 +0000  168 bytes for ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/Base.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/zh-Hant.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:24 +0000  175 bytes for ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/zh-Hant.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/fa-IR.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:24 +0000  210 bytes for ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/fa-IR.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/hu.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:24 +0000  194 bytes for ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/hu.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/da-DK.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:24 +0000  174 bytes for ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/da-DK.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/tr.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:24 +0000  183 bytes for ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/tr.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/pl.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:24 +0000  171 bytes for ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/pl.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/pt-BR.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:24 +0000  181 bytes for ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/pt-BR.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/vi.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:24 +0000  178 bytes for ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/vi.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/ru.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:24 +0000  237 bytes for ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/ru.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/fr.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:24 +0000  193 bytes for ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/fr.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/fi.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:24 +0000  179 bytes for ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/fi.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/id.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:24 +0000  178 bytes for ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/id.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/nl.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:24 +0000  178 bytes for ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/nl.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/pt.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:24 +0000  181 bytes for ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/pt.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/ro.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:24 +0000  181 bytes for ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/ro.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/Info.plist ... 
+2023-04-03 08:04:24 +0000  799 bytes for ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/Info.plist
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/ca.lproj/TOCropViewControllerLocalizable.strings ... 
+2023-04-03 08:04:24 +0000  177 bytes for ./Payload/SilverNew.app/TOCropViewControllerBundle.bundle/ca.lproj/TOCropViewControllerLocalizable.strings
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/Frameworks/libswiftObjectiveC.dylib ... 
+2023-04-03 08:04:24 +0000  302640 bytes for ./Payload/SilverNew.app/Frameworks/libswiftObjectiveC.dylib
+2023-04-03 08:04:24 +0000  copying file ./Payload/SilverNew.app/Frameworks/libswiftCore.dylib ... 
+2023-04-03 08:04:25 +0000  16915040 bytes for ./Payload/SilverNew.app/Frameworks/libswiftCore.dylib
+copying file ./Payload/SilverNew.app/Frameworks/libswiftCoreGraphics.dylib ... 
+2023-04-03 08:04:25 +0000  646848 bytes for ./Payload/SilverNew.app/Frameworks/libswiftCoreGraphics.dylib
+copying file ./Payload/SilverNew.app/Frameworks/libswiftDispatch.dylib ... 
+2023-04-03 08:04:25 +0000  1018912 bytes for ./Payload/SilverNew.app/Frameworks/libswiftDispatch.dylib
+copying file ./Payload/SilverNew.app/Frameworks/libswiftCoreFoundation.dylib ... 
+2023-04-03 08:04:25 +0000  253792 bytes for ./Payload/SilverNew.app/Frameworks/libswiftCoreFoundation.dylib
+copying file ./Payload/SilverNew.app/Frameworks/libswiftDarwin.dylib ... 
+2023-04-03 08:04:25 +0000  369728 bytes for ./Payload/SilverNew.app/Frameworks/libswiftDarwin.dylib
+copying file ./Payload/SilverNew.app/Frameworks/libswiftFoundation.dylib ... 
+2023-04-03 08:04:25 +0000  8479552 bytes for ./Payload/SilverNew.app/Frameworks/libswiftFoundation.dylib
+2023-04-03 08:04:25 +0000  copying file ./Payload/SilverNew.app/SimpleLineIcons.ttf ... 
+2023-04-03 08:04:25 +0000  54056 bytes for ./Payload/SilverNew.app/SimpleLineIcons.ttf
+2023-04-03 08:04:25 +0000  copying file ./Payload/SilverNew.app/Circe-Regular.ttf ... 
+2023-04-03 08:04:25 +0000  430856 bytes for ./Payload/SilverNew.app/Circe-Regular.ttf
+2023-04-03 08:04:25 +0000  copying file ./Payload/SilverNew.app/Source-Sans-Pro-Black.ttf ... 
+2023-04-03 08:04:25 +0000  60408 bytes for ./Payload/SilverNew.app/Source-Sans-Pro-Black.ttf
+2023-04-03 08:04:25 +0000  copying file ./Payload/SilverNew.app/embedded.mobileprovision ... 
+2023-04-03 08:04:25 +0000  16562 bytes for ./Payload/SilverNew.app/embedded.mobileprovision
+2023-04-03 08:04:25 +0000  copying file ./Payload/SilverNew.app/Raleway-Italic.ttf ... 
+2023-04-03 08:04:25 +0000  161320 bytes for ./Payload/SilverNew.app/Raleway-Italic.ttf
+copying file ./Payload/SilverNew.app/rosatom.entitlements ... 
+2023-04-03 08:04:25 +0000  192 bytes for ./Payload/SilverNew.app/rosatom.entitlements
+2023-04-03 08:04:25 +0000  copying file ./Payload/SilverNew.app/Source-Sans-Pro-Bold.ttf ... 
+2023-04-03 08:04:25 +0000  61168 bytes for ./Payload/SilverNew.app/Source-Sans-Pro-Bold.ttf
+copying file ./Payload/SilverNew.app/Raleway-Bold.ttf ... 
+2023-04-03 08:04:25 +0000  176280 bytes for ./Payload/SilverNew.app/Raleway-Bold.ttf
+copying file ./Payload/SilverNew.app/Info.plist ... 
+2023-04-03 08:04:25 +0000  3214 bytes for ./Payload/SilverNew.app/Info.plist
+2023-04-03 08:04:25 +0000  copying file ./Payload/SilverNew.app/PkgInfo ... 
+2023-04-03 08:04:25 +0000  8 bytes for ./Payload/SilverNew.app/PkgInfo
+2023-04-03 08:04:25 +0000  copying file ./Payload/SilverNew.app/MaterialIcons.ttf ... 
+2023-04-03 08:04:25 +0000  128180 bytes for ./Payload/SilverNew.app/MaterialIcons.ttf
+2023-04-03 08:04:25 +0000  copying file ./SwiftSupport/iphoneos/libswiftObjectiveC.dylib ... 
+2023-04-03 08:04:25 +0000  679568 bytes for ./SwiftSupport/iphoneos/libswiftObjectiveC.dylib
+copying file ./SwiftSupport/iphoneos/libswiftCore.dylib ... 
+2023-04-03 08:04:28 +0000  95497472 bytes for ./SwiftSupport/iphoneos/libswiftCore.dylib
+2023-04-03 08:04:28 +0000  copying file ./SwiftSupport/iphoneos/libswiftCoreGraphics.dylib ... 
+2023-04-03 08:04:28 +0000  2040928 bytes for ./SwiftSupport/iphoneos/libswiftCoreGraphics.dylib
+copying file ./SwiftSupport/iphoneos/libswiftDispatch.dylib ... 
+2023-04-03 08:04:28 +0000  4056784 bytes for ./SwiftSupport/iphoneos/libswiftDispatch.dylib
+copying file ./SwiftSupport/iphoneos/libswiftCoreFoundation.dylib ... 
+2023-04-03 08:04:28 +0000  450272 bytes for ./SwiftSupport/iphoneos/libswiftCoreFoundation.dylib
+2023-04-03 08:04:28 +0000  copying file ./SwiftSupport/iphoneos/libswiftDarwin.dylib ... 
+2023-04-03 08:04:28 +0000  1091328 bytes for ./SwiftSupport/iphoneos/libswiftDarwin.dylib
+copying file ./SwiftSupport/iphoneos/libswiftFoundation.dylib ... 
+2023-04-03 08:04:29 +0000  43094208 bytes for ./SwiftSupport/iphoneos/libswiftFoundation.dylib
+2023-04-03 08:04:29 +0000  copying file ./Symbols/88A60111-87C4-33D7-B4F8-2A3E943CD376.symbols ... 
+2023-04-03 08:04:29 +0000  12156220 bytes for ./Symbols/88A60111-87C4-33D7-B4F8-2A3E943CD376.symbols
+2023-04-03 08:04:29 +0000  /usr/bin/ditto exited with 0
+2023-04-03 08:04:29 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2023-04-03 08:04:29 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2023-04-03 08:04:29 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2023-04-03 08:04:29 +0000  IDEDistributionItem init <DVTFilePath:0x60008c1ed900:'/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftCoreFoundation.dylib'>
+2023-04-03 08:04:29 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x60008c1ed900:'/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftCoreFoundation.dylib'>
+2023-04-03 08:04:29 +0000  IDEDistributionItem init <DVTFilePath:0x6000587d6ed0:'/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftDispatch.dylib'>
+2023-04-03 08:04:29 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x6000587d6ed0:'/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftDispatch.dylib'>
+2023-04-03 08:04:29 +0000  IDEDistributionItem init <DVTFilePath:0x6000587d7020:'/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftDarwin.dylib'>
+2023-04-03 08:04:29 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x6000587d7020:'/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftDarwin.dylib'>
+2023-04-03 08:04:29 +0000  IDEDistributionItem init <DVTFilePath:0x60008c1edf00:'/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftFoundation.dylib'>
+2023-04-03 08:04:29 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x60008c1edf00:'/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftFoundation.dylib'>
+2023-04-03 08:04:29 +0000  IDEDistributionItem init <DVTFilePath:0x6000587d6ca0:'/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftCore.dylib'>
+2023-04-03 08:04:29 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x6000587d6ca0:'/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftCore.dylib'>
+2023-04-03 08:04:29 +0000  IDEDistributionItem init <DVTFilePath:0x60008c1edc00:'/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftCoreGraphics.dylib'>
+2023-04-03 08:04:29 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x60008c1edc00:'/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftCoreGraphics.dylib'>
+2023-04-03 08:04:29 +0000  IDEDistributionItem init <DVTFilePath:0x60008c1bcf80:'/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftObjectiveC.dylib'>
+2023-04-03 08:04:29 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x60008c1bcf80:'/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app/Frameworks/libswiftObjectiveC.dylib'>
+2023-04-03 08:04:29 +0000  IDEDistributionItem init <DVTFilePath:0x60004c41c9a0:'/var/folders/lq/282x3kmx3z581kdzqmv054_r0000gn/T/XcodeDistPipeline.~~~lcEggM/Root/Payload/SilverNew.app'>
+2023-04-03 08:04:29 +0000  Processing step: IDEDistributionCreateManifestStep
+2023-04-03 08:04:29 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so

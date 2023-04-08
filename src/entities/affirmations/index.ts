@@ -1,2 +1,1 @@
-
-export * as affirmationsModel from "./model";
+export * as affirmationsModel from './model';

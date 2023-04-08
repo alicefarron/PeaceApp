@@ -8,12 +8,21 @@
 
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* PeaceAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* PeaceAppTests.m */; };
+		028D06B03CC147A1873DF2DF /* HelveticaNeueCyr-Roman.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7181FB752E974F04BC735F39 /* HelveticaNeueCyr-Roman.ttf */; };
 		0C80B921A6F3F58F76C31292 /* libPods-PeaceApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-PeaceApp.a */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-PeaceApp-PeaceAppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-PeaceApp-PeaceAppTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		98C9A67B09A547B6B22F0B19 /* HelveticaNeueCyr-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C013177FDD2240129E445C24 /* HelveticaNeueCyr-Light.ttf */; };
+		C71360FD29D974E700A5449B /* BootSplash.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C71360FC29D974E600A5449B /* BootSplash.storyboard */; };
+		C778BA7DF6534DAEA4F88221 /* HelveticaNeueCyr-UltraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F3B994E86C68479AB330BA5A /* HelveticaNeueCyr-UltraLight.ttf */; };
+		D5767C720449474CA3087FCD /* HelveticaNeueCyr-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 705181850EC44E1EB5A08D83 /* HelveticaNeueCyr-ThinItalic.ttf */; };
+		D866D5F90E6848348355A5F5 /* HelveticaNeueCyr-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DB63FE461CAA4317AB974ADE /* HelveticaNeueCyr-Thin.ttf */; };
+		E35F1E40CB674388930B02D6 /* HelveticaNeueCyr-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 41FD1C1494AE4C7DA180C4C2 /* HelveticaNeueCyr-Medium.ttf */; };
+		E42B82DC962F432EBDCFD314 /* HelveticaNeueBoldCondensed.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2571BDAF9B8248DEB8460A7A /* HelveticaNeueBoldCondensed.ttf */; };
+		EA5458FCBCB2478698A1B732 /* HelveticaNeueCyr-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0C6B71A28FCB43D7B0887EE7 /* HelveticaNeueCyr-Bold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -30,6 +39,7 @@
 		00E356EE1AD99517003FC87E /* PeaceAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PeaceAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* PeaceAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PeaceAppTests.m; sourceTree = "<group>"; };
+		0C6B71A28FCB43D7B0887EE7 /* HelveticaNeueCyr-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "HelveticaNeueCyr-Bold.ttf"; path = "../assets/fonts/HelveticaNeueCyr-Bold.ttf"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* PeaceApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PeaceApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = PeaceApp/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = PeaceApp/AppDelegate.mm; sourceTree = "<group>"; };
@@ -37,13 +47,21 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = PeaceApp/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = PeaceApp/main.m; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-PeaceApp-PeaceAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-PeaceApp-PeaceAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2571BDAF9B8248DEB8460A7A /* HelveticaNeueBoldCondensed.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = HelveticaNeueBoldCondensed.ttf; path = ../assets/fonts/HelveticaNeueBoldCondensed.ttf; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-PeaceApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PeaceApp.debug.xcconfig"; path = "Target Support Files/Pods-PeaceApp/Pods-PeaceApp.debug.xcconfig"; sourceTree = "<group>"; };
+		41FD1C1494AE4C7DA180C4C2 /* HelveticaNeueCyr-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "HelveticaNeueCyr-Medium.ttf"; path = "../assets/fonts/HelveticaNeueCyr-Medium.ttf"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-PeaceApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PeaceApp.release.xcconfig"; path = "Target Support Files/Pods-PeaceApp/Pods-PeaceApp.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-PeaceApp-PeaceAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PeaceApp-PeaceAppTests.debug.xcconfig"; path = "Target Support Files/Pods-PeaceApp-PeaceAppTests/Pods-PeaceApp-PeaceAppTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-PeaceApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-PeaceApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		705181850EC44E1EB5A08D83 /* HelveticaNeueCyr-ThinItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "HelveticaNeueCyr-ThinItalic.ttf"; path = "../assets/fonts/HelveticaNeueCyr-ThinItalic.ttf"; sourceTree = "<group>"; };
+		7181FB752E974F04BC735F39 /* HelveticaNeueCyr-Roman.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "HelveticaNeueCyr-Roman.ttf"; path = "../assets/fonts/HelveticaNeueCyr-Roman.ttf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = PeaceApp/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-PeaceApp-PeaceAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PeaceApp-PeaceAppTests.release.xcconfig"; path = "Target Support Files/Pods-PeaceApp-PeaceAppTests/Pods-PeaceApp-PeaceAppTests.release.xcconfig"; sourceTree = "<group>"; };
+		C013177FDD2240129E445C24 /* HelveticaNeueCyr-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "HelveticaNeueCyr-Light.ttf"; path = "../assets/fonts/HelveticaNeueCyr-Light.ttf"; sourceTree = "<group>"; };
+		C71360FC29D974E600A5449B /* BootSplash.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = BootSplash.storyboard; path = PeaceApp/BootSplash.storyboard; sourceTree = "<group>"; };
+		DB63FE461CAA4317AB974ADE /* HelveticaNeueCyr-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "HelveticaNeueCyr-Thin.ttf"; path = "../assets/fonts/HelveticaNeueCyr-Thin.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		F3B994E86C68479AB330BA5A /* HelveticaNeueCyr-UltraLight.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "HelveticaNeueCyr-UltraLight.ttf"; path = "../assets/fonts/HelveticaNeueCyr-UltraLight.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +106,7 @@
 			children = (
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
 				13B07FB01A68108700A75B9A /* AppDelegate.mm */,
+				C71360FC29D974E600A5449B /* BootSplash.storyboard */,
 				13B07FB51A68108700A75B9A /* Images.xcassets */,
 				13B07FB61A68108700A75B9A /* Info.plist */,
 				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
@@ -106,6 +125,21 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		71D1285745A54BA7B9D9916B /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				2571BDAF9B8248DEB8460A7A /* HelveticaNeueBoldCondensed.ttf */,
+				0C6B71A28FCB43D7B0887EE7 /* HelveticaNeueCyr-Bold.ttf */,
+				C013177FDD2240129E445C24 /* HelveticaNeueCyr-Light.ttf */,
+				41FD1C1494AE4C7DA180C4C2 /* HelveticaNeueCyr-Medium.ttf */,
+				7181FB752E974F04BC735F39 /* HelveticaNeueCyr-Roman.ttf */,
+				DB63FE461CAA4317AB974ADE /* HelveticaNeueCyr-Thin.ttf */,
+				705181850EC44E1EB5A08D83 /* HelveticaNeueCyr-ThinItalic.ttf */,
+				F3B994E86C68479AB330BA5A /* HelveticaNeueCyr-UltraLight.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
@@ -122,6 +156,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				71D1285745A54BA7B9D9916B /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -243,7 +278,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
+				C71360FD29D974E700A5449B /* BootSplash.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				E42B82DC962F432EBDCFD314 /* HelveticaNeueBoldCondensed.ttf in Resources */,
+				EA5458FCBCB2478698A1B732 /* HelveticaNeueCyr-Bold.ttf in Resources */,
+				98C9A67B09A547B6B22F0B19 /* HelveticaNeueCyr-Light.ttf in Resources */,
+				E35F1E40CB674388930B02D6 /* HelveticaNeueCyr-Medium.ttf in Resources */,
+				028D06B03CC147A1873DF2DF /* HelveticaNeueCyr-Roman.ttf in Resources */,
+				D866D5F90E6848348355A5F5 /* HelveticaNeueCyr-Thin.ttf in Resources */,
+				D5767C720449474CA3087FCD /* HelveticaNeueCyr-ThinItalic.ttf in Resources */,
+				C778BA7DF6534DAEA4F88221 /* HelveticaNeueCyr-UltraLight.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

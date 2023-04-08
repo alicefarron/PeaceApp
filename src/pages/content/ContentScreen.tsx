@@ -1,5 +1,6 @@
 import React from 'react';
-import { View, Text, StyleSheet } from 'react-native';
+import {View, Text} from 'react-native';
+import styles from './styles';
 
 const ContentScreen: React.FC = () => {
   return (
@@ -8,13 +9,5 @@ const ContentScreen: React.FC = () => {
     </View>
   );
 };
-
-const styles = StyleSheet.create({
-  container: { 
-      flex: 1, 
-      alignItems: 'center', 
-      justifyContent: 'center' 
-  },
-});
 
 export default ContentScreen;
